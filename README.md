@@ -1,0 +1,2 @@
+# PhotoConfigServer
+configserver
